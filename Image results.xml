@@ -1,0 +1,75 @@
+
+<GSP VER="3.2">
+  <TM>0.395037</TM>
+  <Q>monkeys</Q>
+
+  <PARAM name="cx" value="011737558837375720776:mbfrjmyam1g" original_value="011737558837375720776:mbfrjmyam1g" url_<escaped_value="011737558837375720776%3Ambfrjmyam1g" js_escaped_value="011737558837375720776:mbfrjmyam1g"/>
+  <PARAM name="client" value="google-csbe" original_value="google-csbe" url_escaped_value="google-csbe" js_escaped_value="google-csbe"/>
+  <PARAM name="q" value="monkeys" original_value="monkeys" url_escaped_value="monkeys" js_escaped_value="monkeys"/>
+  <PARAM name="num" value="2" original_value="2" url_escaped_value="2" js_escaped_value="2"/>
+  <PARAM name="output" value="xml_no_dtd" original_value="xml_no_dtd" url_escaped_value="xml_no_dtd" js_escaped_value="xml_no_dtd"/>
+  <PARAM name="adkw" value="AELymgUP4VYSok20wy9SeYczEZ5UXxpBmRsJH4oC4aXhVuZgwGKuponcNXjrYkkw2bRv1BylIm89ndJ-Q4vxvyW0tcbiqipcQC9op_cBG84T12WMvX8660A" original_value="AELymgUP4VYSok20wy9SeYczEZ5UXxpBmRsJH4oC4aXhVuZgwGKuponcNXjrYkkw2bRv1BylIm89ndJ-Q4vxvyW0tcbiqipcQC9op_cBG84T12WMvX8660A" url_escaped_value="AELymgUP4VYSok20wy9SeYczEZ5UXxpBmRsJH4oC4aXhVuZgwGKuponcNXjrYkkw2bRv1BylIm89ndJ-Q4vxvyW0tcbiqipcQC9op_cBG84T12WMvX8660A" js_escaped_value="AELymgUP4VYSok20wy9SeYczEZ5UXxpBmRsJH4oC4aXhVuZgwGKuponcNXjrYkkw2bRv1BylIm89ndJ-Q4vxvyW0tcbiqipcQC9op_cBG84T12WMvX8660A"/>
+  <PARAM name="hl" value="en" original_value="en" url_escaped_value="en" js_escaped_value="en"/>
+  <PARAM name="oe" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"/>
+  <PARAM name="ie" value="UTF-8" original_value="UTF-8" url_escaped_value="UTF-8" js_escaped_value="UTF-8"/>
+  <PARAM name="boostcse" value="0" original_value="0" url_escaped_value="0" js_escaped_value="0"/>
+
+  <Context>
+    <title>domestigeek</title>
+  </Context>
+
+  <ARES/>
+  <RES SN="1" EN="2">
+    <M>2500000</M>
+    <NB>
+      <NU>/images?q=monkeys&num=2&hl=en&client=google-csbe&cx=011737558837375720776:mbfrjmyam1g&boostcse=0&output=xml_no_dtd
+        &ie=UTF-8&oe=UTF-8&tbm=isch&ei=786oTsLiJaaFiALKrPChBg&start=2&sa=N
+      </NU>
+    </NB>
+    <RG START="1" SIZE="2"/>
+      <R N="1" MIME="image/jpeg">
+        <RU>http://www.flickr.com/photos/fncll/135465558/</RU>
+        <U>
+          http://farm1.static.flickr.com/46/135465558_123402af8c.jpg
+        </U>
+        <UE>
+          http://farm1.static.flickr.com/46/135465558_123402af8c.jpg
+        </UE>
+        <T>Computer <b>Monkeys</b> | Flickr - Photo Sharing!</T>
+        <RK>0</RK>
+        <BYLINEDATE>1146034800</BYLINEDATE>
+        <S>Computer <b>Monkeys</b> | Flickr</S>
+        <LANG>en</LANG>
+        <IMG WH="500" HT="305" IID="ANd9GcQARKLwzi-t4lpWi2AERV3kJb4ansaQzTn3MNDZR9fD_JDiktPKByKUBLs">
+          <SZ>88386</SZ>
+          <IN/>
+        </IMG>
+        <TBN TYPE="0" WH="130" HT="79" URL="http://t0.gstatic.com/images?q=tbn:ANd9GcQARKLwzi-
+t4lpWi2AERV3kJb4ansaQzTn3MNDZR9fD_JDiktPKByKUBLs"/>
+      </R>
+      <R N="2" MIME="image/jpeg">
+        <RU>
+          http://www.flickr.com/photos/flickerbulb/187044366/
+        </RU>
+        <U>
+          http://farm1.static.flickr.com/73/187044366_506a1933f4.jpg
+        </U>
+        <UE>
+          http://farm1.static.flickr.com/73/187044366_506a1933f4.jpg
+        </UE>
+        <T>
+          one. ugly. <b>monkey</b>. | Flickr - Photo Sharing!
+        </T>
+        <RK>0</RK>
+        <BYLINEDATE>1152514800</BYLINEDATE>
+        <S>one. ugly. <b>monkey</b>.</S>
+        <LANG>en</LANG>
+        <IMG WH="400" HT="481" IID="ANd9GcQ3Qom0bYbee4fThCQVi96jMEwMU6IvVf2b8K5vERKVw-
+           EF4tQQnDDKOq0"><SZ>58339</SZ>
+          <IN/>
+        </IMG>
+        <TBN TYPE="0" WH="107" HT="129" URL="http://t1.gstatic.com/images?q=tbn:ANd9GcQ3Qom0bYbee4fThCQ
+          Vi96jMEwMU6IvVf2b8K5vERKVw-EF4tQQnDDKOq0"/>
+      </R>
+  </RES>
+</GSP>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+
+<GSP VER="3.2">
+   <TM>0.452923</TM>
+   <Q>socer</Q>
+
+<PARAM name="cx" value="00255077836266642015:u-scht7a-8i" original_value="00255077836266642015%3Au-scht7a-8i"/>
+   <PARAM name="hl" value="en" original_value="en"/>
+   <PARAM name="q" value="socer" original_value="socer"/>
+   <PARAM name="output" value="xml" original_value="xml"/>
+   <PARAM name="client" value="google-csbe" original_value="google-csbe"/>
+   <PARAM name="num" value="10" original_value="10"/>
+   <Spelling>
+      <Suggestion q="soccer"><b><i>soccer</i></b></Suggestion>
+   </Spelling>
+   <Context>
+
+<title>Sample Vacation CSE</title>
+    <Facet>
+      <FacetItem>
+        <label>restaurants</label>
+        <anchor_text>restaurants</anchor_text>
+      </FacetItem>
+      <FacetItem>
+        <label>wineries</label>
+        <anchor_text>wineries</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <label>golf_courses</label>
+        <anchor_text>golf courses</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+     <FacetItem>
+        <label>hotels</label>
+        <anchor_text>hotels</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <label>nightlife</label>
+        <anchor_text>nightlife</anchor_text>
+      </FacetItem>
+    </Facet>
+    <Facet>
+      <FacetItem>
+        <label>soccer_sites</label>
+        <anchor_text>soccer sites</anchor_text>
+      </FacetItem>
+    </Facet>
+   </Context>
+   <RES SN="1" EN="10">
+      <M>6080</M>
+      /*
+       * The FI tag after the comment indicates that the result
+       * set has been filtered. If the number of results were exact, the
+       * FI tag would be replaced by an XT tag in the same format.
+       */
+      <FI />
+      <NB>
+         /*
+          * Since the request is for the first page of results, the PU tag,
+          * which contains a link to the previous page of search results,
+          * is not included in this XML result. If the sample result did include
+          * a previous page of results, it would be listed here, in the same format
+          * as the NU tag on the following line
+          */
+         <NU>/search?q=socer&hl=en&lr=&ie=UTF-8&output=xml&client=test&start=10&sa=N</NU>
+      </NB>
+      <R N="1">
+         <U>http://www.soccerconnection.net/</U>
+         <UE>http://www.soccerconnection.net/</UE>
+         <T>SoccerConnection.net</T>
+              <CRAWLDATE>May 21, 2007</CRAWLDATE>
+         <S><b>soccer</b>; players; coaches; ball; world cup;<b>...</b></S>
+  <Label>transcodable_pages</Label>
+    <Label>accessible</Label>
+         <Label>soccer_sites</Label>
+         <LANG>en</LANG>
+         <HAS>
+            <DI>
+               <DT>SoccerConnection.net</DT>
+               <DS>Post your <b>soccer</b> resume directly on the Internet.</DS>
+            </DI>
+            <L/>
+            <C SZ="8k" CID="kWAPoYw1xIUJ"/>
+            <RT/>
+         </HAS>
+      </R>
+      /*
+       * The result includes nine more results, each enclosed by an R tag.
+       */
+   </RES>
+</GSP>
